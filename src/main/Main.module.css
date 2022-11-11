@@ -1,0 +1,13 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #ff90c3;
+}
+
+.welcomeText {
+    width: 400px;
+}
+
+.welcomeButton {
+    width: 400px;
+    height: 400px;
+}
