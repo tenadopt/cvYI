@@ -5,6 +5,13 @@
 
 .welcomeText {
     width: 400px;
+    background-color: gray;
+}
+
+.photo {
+    width: 400px;
+    height: 400px;
+    background-color: gray;
 }
 
 .welcomeButton {
