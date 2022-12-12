@@ -1,19 +1,18 @@
-.slillsBlock {
+.projectsBlock {
     height: 100vh;
-    background-color: #a5ff04;
+    background-color: #04eaff;
 }
 
-.skillsContainer {
+.projectsContainer {
     align-items: center;
-    flex-direction: column;
-    justify-content: flex-start;
+    justify-content: space-between;
 }
 
 .title {
     background-color: gray;
 }
 
-.skills {
+.projects {
     border: 1px solid;
     width: 100%;
     display: flex;
